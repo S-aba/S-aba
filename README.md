@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @S-aba
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning HTML,CSS,Javascript
-- 💞️ I’m looking to collaborate on everything.
-- 📫 You can reach me at sabazelalem4@gmail.com
+- 🌱 I’m currently open to learning anything
 
 <!---
 S-aba/S-aba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
